@@ -1,0 +1,764 @@
+@media (max-width: 1600px) {
+  .nav-area {
+    gap: 50px;
+  }
+  .login-signup {
+    font-size: 1.4rem;
+    gap: 5px;
+    padding: 13px 10px;
+  }
+}
+@media (max-width: 1440px) {
+  .container {
+    max-width: 1140px;
+    width: 100%;
+  }
+  html {
+    font-size: 58%;
+  }
+  .about-us-bnner {
+    margin-bottom: 70px;
+  }
+  .nav-area {
+    gap: 40px;
+  }
+  .services {
+    padding: 60px 0 0 0;
+  }
+  .our-story-section {
+    padding-bottom: 80px;
+  }
+  .use-our-experince-section {
+    padding: 100px 0;
+  }
+  .about-company-section {
+    padding: 100px 0;
+  }
+  .our-story-img-area {
+    max-height: 359.73px;
+  }
+  .frgot-btm-para {
+    font-size: 2.4rem;
+    margin-top: 50px;
+  }
+}
+@media (max-width: 1414px) {
+  .header-link {
+    font-size: 1.8rem;
+  }
+  .back-login-link {
+    font-size: 3rem;
+  }
+}
+@media (max-width: 1366px) {
+  .service-top {
+    height: 220px;
+    width: 220px;
+  }
+  .service-top img {
+    width: 110px;
+  }
+  .header-search-area {
+    padding: 0 30px;
+    margin: 0;
+  }
+  .login-signup {
+    padding: 13px 8px;
+  }
+  .signin-signup-area {
+    padding: 0 10px;
+  }
+}
+@media (max-width: 1280px) {
+  .about-company-section {
+    padding: 60px 0;
+  }
+  .header-logo {
+    max-width: 250px;
+  }
+  .login-signup {
+    padding: 13px 5px;
+  }
+  .build-our-story-section {
+    padding: 50px 0;
+  }
+}
+@media (max-width: 1202px) {
+  .nav-area {
+    gap: 30px;
+  }
+  .signin-signup-area {
+    gap: 10px;
+  }
+}
+@media (max-width: 1200px) {
+  .container {
+    max-width: 960px;
+  }
+}
+@media (max-width: 1024px) {
+  html {
+    font-size: 45%;
+  }
+  .login-btn {
+    margin: 60px 0;
+  }
+  .login-area {
+    padding: 70px 70px;
+    box-shadow: 0px 0px 6px 4px #00000059;
+  }
+  .login-title {
+    margin-bottom: 60px;
+  }
+  .login-fields-inner-area {
+    padding: 0 25px;
+    gap: 25px;
+  }
+  .login-field-input {
+    padding: 25px 0;
+  }
+  .login-field-title {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  .forgot-pass-link {
+    font-size: 3.2rem;
+  }
+  .register-link {
+    font-size: 3.5rem;
+  }
+  .login-btn {
+    padding: 35px;
+  }
+  .about-us-bnner {
+    padding: 80px 0;
+  }
+  .our-stry-sec-title {
+    margin: 10px 0 30px;
+  }
+  .our-story-img-area {
+    max-height: 303.53px;
+  }
+  .working-detail-area {
+    width: 31%;
+  }
+  .our-story-discrip-area {
+    padding-left: 10px;
+  }
+  .working-detail-main {
+    margin-top: 50px;
+  }
+  .work-descrip-area {
+    padding: 0 10px 0 20px;
+  }
+  .signin-signup-area {
+    gap: 10px;
+  }
+  .header-logo {
+    max-width: 220px;
+  }
+  .service-area {
+    max-width: 260px;
+    width: 100%;
+  }
+  .login-signup {
+    padding: 10px 5px;
+  }
+  .section-title {
+    margin-bottom: 60px;
+  }
+  .service-top img {
+    width: 95px;
+  }
+  .service-top {
+    height: 190px;
+    width: 190px;
+  }
+  .question-ans-sec {
+    padding: 60px 0 40px;
+  }
+  .sub-ques-ans-area {
+    margin-top: 40px;
+  }
+  .people-are-saying-slider-area {
+    margin-top: 25px;
+  }
+  #header {
+    padding: 20px 0;
+  }
+  .login-field-input::placeholder {
+    font-size: 2rem;
+    font-family: var(--Montserrat-Regular);
+    color: #cccccc;
+  }
+  .login-field-input {
+    font-size: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .container {
+    max-width: 720px;
+  }
+  .frgot-btm-para {
+    font-size: 2rem;
+    margin-top: 30px;
+  }
+  .back-login-link {
+    font-size: 2rem;
+    top: 5px;
+    left: 5px;
+  }
+  .login-btn.send-btn {
+    margin: 20px 0 0;
+  }
+  .forget-field-title {
+    font-size: 2.4rem;
+    margin-bottom: 20px;
+  }
+  .forgot-discrip {
+    font-size: 2.2rem;
+    margin-bottom: 30px;
+  }
+  .login-section {
+    padding: 50px 0;
+    margin-bottom: 50px;
+  }
+  .login-area {
+    padding: 40px 30px;
+  }
+  .login-title {
+    margin-bottom: 40px;
+    font-size: 6rem;
+  }
+  .login-field-title {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+  }
+  .login-fields-area {
+    margin-bottom: 30px;
+  }
+  .register-link {
+    font-size: 3rem;
+  }
+  .login-btn {
+    padding: 25px;
+    font-size: 3rem;
+    margin: 40px 0;
+  }
+  .login-fields-inner-area i {
+    color: #cccccc;
+    font-size: 3rem;
+  }
+  .login-fields-inner-area {
+    padding: 0 20px;
+    gap: 20px;
+  }
+  .about-us-bnner {
+    padding: 50px 0;
+  }
+  .our-story-section {
+    padding-bottom: 40px;
+  }
+  .our-story-discrip {
+    margin-bottom: 20px;
+  }
+  .our-story-discrip-area {
+    padding-left: 0;
+  }
+  .about-us-bnner {
+    margin-bottom: 40px;
+  }
+  .work-descrip-area {
+    padding: 0 10px 0 0;
+  }
+  .work-descrip-title {
+    font-size: 5.8rem;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  .use-our-experince-section {
+    padding: 50px 0;
+  }
+  .about-company-section {
+    padding: 40px 0;
+  }
+  .about-comp-area {
+    margin-bottom: 20px;
+  }
+  .about-comp-title {
+    margin-bottom: 30px;
+  }
+  .contact-us-link {
+    padding: 15px 55px;
+    border-radius: 12px;
+  }
+  span.story-top-sp {
+    display: block;
+    text-align: center;
+  }
+  h2.our-stry-sec-title {
+    text-align: center;
+  }
+  .expe-img-area {
+    overflow: hidden;
+    max-height: 620px;
+    max-width: 100%;
+  }
+  .expe-img-area img {
+    width: 100%;
+  }
+
+  .our-story-img-area {
+    max-height: 458.78px;
+    margin-bottom: 20px;
+  }
+  .working-detail-main {
+    margin-top: 50px;
+    justify-content: center;
+    gap: 0 20px;
+  }
+  .working-detail-area {
+    width: 48%;
+    margin-bottom: 20px;
+  }
+  #footer {
+    position: relative;
+    margin-bottom: 25px;
+  }
+  ul.social-icons-area {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -10px;
+  }
+  .res-ordr-1 {
+    order: 1;
+  }
+  .header-search-area {
+    padding: 0 30px;
+    margin: 30px 0 0;
+  }
+  .header-logo {
+    max-width: 190px;
+  }
+  .service-area {
+    text-align: -webkit-center;
+    margin-bottom: 40px;
+  }
+  .service-top {
+    height: 170px;
+    width: 170px;
+  }
+  .res-center {
+    justify-content: center;
+  }
+}
+@media (max-width: 767px) {
+  .container {
+    max-width: 540px;
+  }
+  .login-title {
+    font-size: 5rem;
+  }
+  .login-area {
+    margin: 0;
+  }
+  .login-field-input {
+    padding: 20px 0;
+  }
+  .login-btn {
+    padding: 20px;
+  }
+  .our-story-img-area {
+    max-height: 342.34px;
+    margin-bottom: 20px;
+  }
+  .our-stry-sec-title {
+    font-size: 6rem;
+  }
+  .work-img-area img {
+    width: 60px;
+  }
+  .work-img-area {
+    height: 110px;
+    width: 110px;
+  }
+  .working-detail-area {
+    width: 70%;
+    margin-bottom: 20px;
+    padding: 40px;
+  }
+  .about-comp-img-area {
+    max-width: 100%;
+    max-height: 300px;
+  }
+  .about-comp-img-area img {
+    width: 100%;
+  }
+  h2.work-descrip-title br {
+    display: none;
+  }
+  .sub-ques-ans-inner-area {
+    padding: 20px 20px;
+  }
+  button.menu-cls-btn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 30px;
+    height: 30px;
+    font-size: 2.5rem;
+    border: navajowhite;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 5px 1px #000000db;
+  }
+  nav.header-navigation {
+    position: fixed;
+    top: 0;
+    background-color: #49b4de;
+    height: 100vh;
+    z-index: 1;
+    width: 50%;
+    left: -100%;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    transition: 0.5s;
+  }
+  button.menu-opn-btn {
+    margin-right: 20px;
+    border: none;
+    height: 30px;
+    width: 30px;
+    background-color: white;
+    font-size: 2rem;
+    color: #49b4de;
+    box-shadow: 0 0 5px 3px #00000057;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  nav.header-navigation.active {
+    left: 0;
+  }
+  .login-signup {
+    font-size: 1.6rem;
+  }
+  .menu-cls-btn {
+    display: block;
+  }
+  .header-link {
+    font-size: 2.4rem;
+  }
+  .nav-area {
+    display: block;
+  }
+  li.header-link-area {
+    margin-bottom: 20px;
+  }
+  .people-text-area {
+    font-size: 2rem;
+  }
+  .section-title {
+    font-size: 6rem;
+  }
+  .res-mt-20px {
+    margin-top: 20px;
+  }
+  .people-say-img {
+    height: 130px;
+    width: 130px;
+    border: 13px solid white;
+  }
+  .people-are-saying-slider-area {
+    margin-top: 0px;
+  }
+  .peo-say-bottom-area {
+    margin-bottom: 30px;
+  }
+  .peo-say-bottom-area div i {
+    font-size: 8rem;
+  }
+  .sub-ques-ans-area {
+    margin-top: 20px;
+  }
+  .sub-ques-ans-area {
+    padding: 70px 0;
+  }
+  .service-area {
+    max-width: 250px;
+    width: 100%;
+  }
+  .banner-slider-area ul.slick-dots {
+    bottom: 10px;
+  }
+}
+@media (max-width: 575px) {
+  .container {
+    max-width: 100%;
+  }
+  .login-title.forgot-title {
+    margin-top: 10px;
+  }
+  .working-detail-area {
+    width: 60%;
+    max-width: 100%;
+  }
+  .header-search-area {
+    padding: 0 10px;
+    margin: 30px 0 0;
+  }
+  .peo-say-slidr-btn {
+    padding: 12.5px 13.5px;
+    font-size: 3rem;
+    border-radius: 17px;
+  }
+  .peo-say-bottom-area div i {
+    font-size: 6rem;
+  }
+  .section-title {
+    font-size: 5rem;
+  }
+  .service-area {
+    max-width: 370px;
+  }
+}
+@media (max-width: 480px) {
+  .header-logo {
+    max-width: 160px;
+  }
+  .login-title {
+    font-size: 4rem;
+  }
+  .frgot-btm-para {
+    font-size: 1.6rem;
+    margin-bottom: 20px;
+  }
+  .login-field-input {
+    padding: 15px 0;
+    font-size: 2rem;
+  }
+  .forget-field-title {
+    font-size: 1.6rem;
+    margin-bottom: 20px;
+  }
+  .login-btn.send-btn {
+    margin: 0px 0 0;
+  }
+  .login-field-input::placeholder {
+    font-size: 1.8rem;
+    font-family: var(--Montserrat-Regular);
+    color: #cccccc;
+  }
+  .forgot-discrip {
+    font-size: 2rem;
+    margin-bottom: 30px;
+  }
+  .forgot-pass-link {
+    font-size: 2.6rem;
+  }
+  .register-link {
+    font-size: 2.4rem;
+  }
+  .login-btn {
+    font-size: 2.6rem;
+  }
+  .about-us-bnner {
+    padding: 30px 0;
+  }
+  .inner-bnner-title {
+    font-size: 6rem;
+  }
+  .ques-ans-area {
+    margin-bottom: 25px;
+  }
+  .banner-slider-area ul.slick-dots li button {
+    height: 10px;
+    width: 10px;
+  }
+  .banner-slider-area ul.slick-dots li.slick-active button {
+    height: 15px;
+    width: 15px;
+    opacity: 100%;
+  }
+  .people-say-img {
+    height: 110px;
+    width: 110px;
+    border: 10px solid white;
+  }
+  .our-story-img-area {
+    max-height: 303.53px;
+  }
+  .comp-work-title {
+    font-size: 4.4rem;
+  }
+  .working-detail-area {
+    width: 80%;
+    max-width: 100%;
+  }
+  .expe-img-area {
+    max-height: 600.94px;
+  }
+  .work-descrip-title {
+    font-size: 5rem;
+  }
+}
+@media (max-width: 414px) {
+  .our-stry-sec-title {
+    font-size: 4.5rem;
+  }
+  .forgot-discrip {
+    font-size: 1.6rem;
+  }
+  .login-area {
+    padding: 30px 10px;
+  }
+  .header-logo {
+    max-width: 140px;
+  }
+  .login-signup {
+    font-size: 1.4rem;
+  }
+  .section-title {
+    font-size: 4rem;
+  }
+  nav.header-navigation {
+    width: 80%;
+  }
+  .banner-slider-btn-area {
+    display: none;
+  }
+  .our-story-img-area {
+    max-height: 260.83px;
+  }
+  .comp-work-title {
+    font-size: 3.5rem;
+  }
+  .work-title {
+    font-size: 4rem;
+  }
+  .working-detail-main {
+    margin-top: 20px;
+  }
+  .our-story-section {
+    padding-bottom: 20px;
+  }
+  .complete-work-section {
+    padding: 40px 0;
+    background-color: #f1f1f1;
+  }
+  .work-descrip-title {
+    font-size: 4rem;
+  }
+  .work-descrip-text {
+    font-size: 2rem;
+    margin-bottom: 25px;
+  }
+}
+@media (max-width: 375px) {
+  .services {
+    padding: 30px 0 0 0;
+  }
+  .login-title {
+    font-size: 3.5rem;
+  }
+  .back-login-link {
+    font-size: 1.5rem;
+  }
+  .section-title {
+    margin-bottom: 40px;
+  }
+  .our-story-img-area {
+    max-height: 235.61px;
+  }
+  .work-title {
+    margin: 15px 0;
+  }
+  .working-detail-area {
+    width: 90%;
+  }
+  .comp-work-title {
+    font-size: 3rem;
+  }
+  .contact-us-link {
+    padding: 15px 30px;
+    border-radius: 10px;
+    font-size: 2rem;
+  }
+  .build-our-story-section {
+    padding: 30px 0;
+  }
+  p.build-story-dis.work-descrip-text.text-center {
+    font-size: 1.8rem;
+  }
+  .about-us-bnner {
+    padding: 30px 0;
+    margin-bottom: 20px;
+  }
+  .inner-bnner-title {
+    font-size: 5rem;
+  }
+  .login-signup {
+    padding: 10px 3px;
+  }
+  .signin-signup-area {
+    gap: 7px;
+    padding: 0 12px;
+  }
+
+  .sub-ques-ans-inner-area {
+    padding: 20px 20px;
+  }
+  .sec-sb-title {
+    font-size: 3.1rem;
+  }
+  .submit-btn {
+    font-size: 2rem;
+    padding: 15px 50px;
+    margin-top: 25px;
+  }
+  .section-title::before {
+    max-width: 90px;
+  }
+  .service-top img {
+    width: 80px;
+  }
+  .service-top {
+    height: 150px;
+    width: 150px;
+  }
+  .ques-ans-area {
+    padding: 20px 20px;
+  }
+  .ques-ans-area i {
+    font-size: 7rem;
+  }
+  .answer {
+    font-size: 2rem;
+  }
+  .ques-textarea {
+    height: 240px;
+  }
+  .section-title {
+    font-size: 3.5rem;
+  }
+  .people-text-area {
+    font-size: 1.8rem;
+  }
+  .peo-say-bottom-area div i {
+    font-size: 5rem;
+  }
+  li.people-are-saying-slider {
+    margin-bottom: 30px;
+  }
+  .footer-btm-line {
+    font-size: 2rem;
+  }
+}
+@media (max-width: 360px) {
+}
