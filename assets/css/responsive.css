@@ -199,6 +199,15 @@
   .container {
     max-width: 720px;
   }
+  .signin-signup-area {
+    padding: 0;
+}
+  .login-signup.before::before {
+    display: none;
+  }
+  .login-signup.after::after {
+    display: none;
+  }
   .frgot-btm-para {
     font-size: 2rem;
     margin-top: 30px;
@@ -430,7 +439,6 @@
     transition: 0.5s;
   }
   button.menu-opn-btn {
-    margin-right: 20px;
     border: none;
     height: 30px;
     width: 30px;
@@ -707,7 +715,7 @@
     padding: 10px 3px;
   }
   .signin-signup-area {
-    gap: 7px;
+    gap: 10px;
     padding: 0 12px;
   }
 
