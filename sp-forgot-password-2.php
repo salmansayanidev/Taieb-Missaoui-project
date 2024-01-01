@@ -18,7 +18,9 @@
                                         <input class="login-field-input forgot-field" placeholder="Enter Your 6 Digit OTP Here" type="number" name="" id="">
                                     </div>
                                 </div>
-                                <button type="submit" class="login-btn send-btn">Submit</button>
+                                <div class="text-center">
+                                    <button type="submit" class="login-btn send-btn">Submit</button>
+                                </div>
                             </form>
                         </div>
                     </div>

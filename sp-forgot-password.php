@@ -19,7 +19,9 @@
                                     </div>
                                 </div>
                                 <p class="frgot-btm-para">Enter the email address associated with your account, and we'll email you a link to reset your password.</p>
-                                <button type="submit" class="login-btn send-btn">Send</button>
+                                <div class="text-center">
+                                    <button type="submit" class="login-btn send-btn">Send</button>  
+                                </div>
                             </form>
                         </div>
                     </div>

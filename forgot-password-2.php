@@ -18,7 +18,9 @@
                                         <input class="login-field-input forgot-field" placeholder="Type Your Email" type="email" name="" id="">
                                     </div>
                                 </div>
-                                <button type="submit" class="login-btn send-btn">Send</button>
+                                <div class="text-center">
+                                    <button type="submit" class="login-btn send-btn">Send</button>
+                                </div>
                             </form>
                         </div>
                     </div>

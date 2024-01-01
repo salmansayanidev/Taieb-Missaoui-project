@@ -23,7 +23,9 @@
                                         <input class="login-field-input forgot-field" placeholder="Confirm Your New Password" type="email" name="" id="">
                                     </div>
                                 </div>
-                                <button type="submit" class="login-btn send-btn">Save New Password</button>
+                                <div class="text-center">
+                                    <button type="submit" class="login-btn send-btn">Save New Password</button>
+                                </div>
                             </form>
                         </div>
                     </div>

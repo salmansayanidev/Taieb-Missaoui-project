@@ -38,16 +38,12 @@
     max-height: 359.73px;
   }
   .frgot-btm-para {
-    font-size: 2.4rem;
-    margin-top: 50px;
+    font-size: 2rem;
   }
 }
 @media (max-width: 1414px) {
   .header-link {
     font-size: 1.8rem;
-  }
-  .back-login-link {
-    font-size: 3rem;
   }
 }
 @media (max-width: 1366px) {
@@ -100,9 +96,6 @@
   html {
     font-size: 45%;
   }
-  .login-btn {
-    margin: 60px 0;
-  }
   .login-area {
     padding: 70px 70px;
     box-shadow: 0px 0px 6px 4px #00000059;
@@ -110,25 +103,12 @@
   .login-title {
     margin-bottom: 60px;
   }
-  .login-fields-inner-area {
-    padding: 0 25px;
-    gap: 25px;
-  }
   .login-field-input {
     padding: 25px 0;
   }
   .login-field-title {
     font-size: 3rem;
     margin-bottom: 20px;
-  }
-  .forgot-pass-link {
-    font-size: 3.2rem;
-  }
-  .register-link {
-    font-size: 3.5rem;
-  }
-  .login-btn {
-    padding: 35px;
   }
   .about-us-bnner {
     padding: 80px 0;
@@ -210,19 +190,10 @@
   }
   .frgot-btm-para {
     font-size: 2rem;
-    margin-top: 30px;
   }
   .back-login-link {
-    font-size: 2rem;
     top: 5px;
     left: 5px;
-  }
-  .login-btn.send-btn {
-    margin: 20px 0 0;
-  }
-  .forget-field-title {
-    font-size: 2.4rem;
-    margin-bottom: 20px;
   }
   .forgot-discrip {
     font-size: 2.2rem;
@@ -235,28 +206,12 @@
   .login-area {
     padding: 40px 30px;
   }
-  .login-title {
-    margin-bottom: 40px;
-    font-size: 6rem;
-  }
   .login-field-title {
     font-size: 2.5rem;
     margin-bottom: 15px;
   }
   .login-fields-area {
     margin-bottom: 30px;
-  }
-  .register-link {
-    font-size: 3rem;
-  }
-  .login-btn {
-    padding: 25px;
-    font-size: 3rem;
-    margin: 40px 0;
-  }
-  .login-fields-inner-area i {
-    color: #cccccc;
-    font-size: 3rem;
   }
   .login-fields-inner-area {
     padding: 0 20px;
@@ -374,9 +329,6 @@
   }
   .login-field-input {
     padding: 20px 0;
-  }
-  .login-btn {
-    padding: 20px;
   }
   .our-story-img-area {
     max-height: 342.34px;
@@ -545,7 +497,6 @@
   }
   .frgot-btm-para {
     font-size: 1.6rem;
-    margin-bottom: 20px;
   }
   .login-field-input {
     padding: 15px 0;
@@ -553,7 +504,6 @@
   }
   .forget-field-title {
     font-size: 1.6rem;
-    margin-bottom: 20px;
   }
   .login-btn.send-btn {
     margin: 0px 0 0;
@@ -572,9 +522,6 @@
   }
   .register-link {
     font-size: 2.4rem;
-  }
-  .login-btn {
-    font-size: 2.6rem;
   }
   .about-us-bnner {
     padding: 30px 0;

@@ -803,7 +803,7 @@ p.build-story-dis.work-descrip-text.text-center {
   box-shadow: 0px 0px 6px 4px #00000059;
 }
 .login-title {
-  font-size: 8rem;
+  font-size: 5rem;
   color: black;
   font-family: var(--Montserrat-bold);
   margin-bottom: 80px;
@@ -822,23 +822,23 @@ p.build-story-dis.work-descrip-text.text-center {
   border-radius: 20px;
   display: flex;
   align-items: center;
-  gap: 45px;
+  gap: 25px;
 }
 .login-fields-inner-area i {
   color: #cccccc;
-  font-size: 5rem;
+  font-size: 3rem;
 }
 .login-field-input {
   width: 100%;
   outline: none;
   border: none;
-  font-size: 2.8rem;
+  font-size: 2rem;
   font-family: var(--Montserrat-Regular);
   color: #cccccc;
-  padding: 32px 0;
+  padding: 20px 0;
 }
 .login-field-input::placeholder {
-  font-size: 2.8rem;
+  font-size: 2rem;
   font-family: var(--Montserrat-Regular);
   color: #cccccc;
 }
@@ -846,7 +846,7 @@ p.build-story-dis.work-descrip-text.text-center {
   margin-bottom: 50px;
 }
 .forgot-pass-link {
-  font-size: 4.2rem;
+  font-size: 3rem;
   font-family: var(--Montserrat-Regular);
   text-decoration: none;
   color: #8d8d8d;
@@ -854,18 +854,17 @@ p.build-story-dis.work-descrip-text.text-center {
   justify-content: flex-end;
 }
 .login-btn {
-  margin: 100px 0;
-  font-size: 3.6rem;
+  margin: 50px 0;
+  font-size: 3rem;
   font-family: var(--Montserrat-Medium);
   color: white;
   border: none;
   background-color: var(--sky-blue-color);
-  width: 100%;
-  padding: 50px;
+  padding: 20px 60px;
   border-radius: 100px;
 }
 .register-link {
-  font-size: 4.2rem;
+  font-size: 3rem;
   font-family: var(--Montserrat-Regular);
   color: #8d8d8d;
   text-align: center;
@@ -886,7 +885,7 @@ p.build-story-dis.work-descrip-text.text-center {
   margin-bottom: 20px;
 }
 .forgot-discrip {
-  font-size: 2.2rem;
+  font-size: 1.8rem;
   font-family: var(--Montserrat-Light);
   color: black;
   text-align: center;
@@ -896,10 +895,10 @@ p.build-story-dis.work-descrip-text.text-center {
   margin: 0;
 }
 .forget-field-title {
-  font-size: 2.5rem;
+  font-size: 2rem;
   font-family: var(--Montserrat-Medium);
   color: black;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 input.login-field-input.forgot-field::-webkit-outer-spin-button,
@@ -912,27 +911,28 @@ input.login-field-input.forgot-field::-webkit-inner-spin-button {
   border: 2px solid var(--sky-blue-color);
 }
 .login-btn.send-btn {
-  margin: 60px 0 0;
+  margin: 0 0 0;
   border-radius: 20px;
 }
 .back-login-link {
   text-decoration: none;
   color: var(--sky-blue-color);
-  font-size: 3.2rem;
+  font-size: 2rem;
   font-family: var(--Montserrat-Medium);
   position: absolute;
-  top: 20px;
-  left: 20px;
+  top: 10px;
+  left: 10px;
 }
 .login-area.forgot-area.position-relative {
   padding: 250px 145px;
 }
 .frgot-btm-para {
-  font-size: 2.8rem;
+  font-size: 2rem;
   font-family: var(--Montserrat-Medium);
   color: black;
   line-height: 1.2;
-  margin-top: 80px;
+  margin-top: 0px;
+  margin-bottom: 30px;
 }
 
 /* forgot-pass-section end */
