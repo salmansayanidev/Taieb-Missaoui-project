@@ -44,7 +44,7 @@ $('.banner-slider-area').slick({
 $('.people-are-saying-slider-area').slick({
   slidesToShow: 1,
   slidesToScroll: 1,
-  // autoplay: true,
+  autoplay: true,
   autoplaySpeed: 2500,
   dots: false,
   arrows: true,
