@@ -914,6 +914,13 @@ input.login-field-input.forgot-field::-webkit-inner-spin-button {
   margin: 0 0 0;
   border-radius: 20px;
 }
+button.eye-btn {
+  border: none;
+  background-color: transparent;
+}
+button.eye-btn i {
+  font-size: 2rem;
+}
 .back-login-link {
   text-decoration: none;
   color: var(--sky-blue-color);

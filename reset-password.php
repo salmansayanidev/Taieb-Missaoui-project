@@ -14,13 +14,15 @@
                                 <div class="login-fields-area">
                                     <label class="forget-field-title">NEW PASSWORD</label>
                                     <div class="login-fields-inner-area">
-                                        <input class="login-field-input forgot-field" placeholder="Enter Your New Password" type="email" name="" id="">
+                                        <input class="login-field-input myInput" placeholder="Type your password" type="password" name="">
+                                        <button type="button" class="eye-btn"><i class="toggleIcon fa-solid fa-eye-slash"></i></button>
                                     </div>
                                 </div>
                                 <div class="login-fields-area">
                                     <label class="forget-field-title">CONFIRM PASSWORD</label>
                                     <div class="login-fields-inner-area">
-                                        <input class="login-field-input forgot-field" placeholder="Confirm Your New Password" type="email" name="" id="">
+                                        <input class="login-field-input myInput" placeholder="Type your password" type="password" name="">
+                                        <button type="button" class="eye-btn"><i class="toggleIcon fa-solid fa-eye-slash"></i></button>
                                     </div>
                                 </div>
                                 <div class="text-center">
